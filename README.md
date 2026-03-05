@@ -1,16 +1,34 @@
-## Hi there 👋
+# François Otavio
+Database Architect | Oracle | MySQL | Cloud  
+Founder – IDB Consult
 
-<!--
-**francois-fiorino/francois-fiorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specialist in mission-critical database environments with more than 13 years of experience designing, optimizing and securing enterprise data platforms.
 
-Here are some ideas to get you started:
+## Expertise
+- Oracle Database
+- MySQL
+- High Availability (RAC, Data Guard)
+- Performance Tuning
+- Database Security
+- Cloud Architecture (OCI, AWS, Azure, GCP)
+- Backup & Recovery Strategies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+Oracle Database  
+MySQL  
+PostgreSQL  
+SQL Server  
+Oracle Cloud Infrastructure  
+
+## Projects
+Advanced DBA scripts and database automation tools.
+
+## Contact
+LinkedIn  
+https://linkedin.com/in/francois-fiorino
+
+Website  
+https://idbconsult.com.br
+
+Blog
+https://francoisfiorino.com.br/
