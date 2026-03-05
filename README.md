@@ -27,8 +27,8 @@ Advanced DBA scripts and database automation tools.
 LinkedIn  
 https://linkedin.com/in/francois-fiorino
 
-Website  
+## Website  
 https://idbconsult.com.br
 
-Blog
+## Blog
 https://francoisfiorino.com.br/
