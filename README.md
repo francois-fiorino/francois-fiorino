@@ -9,6 +9,19 @@ Specialist in **mission-critical database environments** with more than **13 yea
 
 ---
 
+## Technologies
+
+![Oracle](https://img.shields.io/badge/Oracle-Database-red)
+![MySQL](https://img.shields.io/badge/MySQL-DBA-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-CC2927)
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-OCI-F80000)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4)
+![Linux](https://img.shields.io/badge/Linux-LPIC-green)
+
+---
+
 ## Expertise
 
 • Oracle Database  
@@ -18,16 +31,6 @@ Specialist in **mission-critical database environments** with more than **13 yea
 • Database Security & Hardening  
 • Cloud Architecture (OCI, AWS, Azure, GCP)  
 • Backup & Recovery Strategies  
-
----
-
-## Technologies
-
-Oracle Database  
-MySQL  
-PostgreSQL  
-SQL Server  
-Oracle Cloud Infrastructure  
 
 ---
 
