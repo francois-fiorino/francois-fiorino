@@ -65,12 +65,6 @@ Em constante desenvolvimento nas áreas de **Gestão de TI, Governança, Cloud, 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=francois-fiorino&show_icons=true)
-
----
-
 ## 🤝 Contato
 
 **LinkedIn**  
