@@ -32,19 +32,20 @@ Minha trajetória combina **liderança e gestão de tecnologia com especializaç
 
 ## 📂 Projetos e Contribuições
 
-Este GitHub reúne projetos, estudos e ferramentas voltados à **automação, infraestrutura, banco de dados e operações de TI**.
+Este GitHub reúne projetos, estudos e soluções voltados à **infraestrutura, cloud, engenharia de dados, banco de dados, automação e operações de TI**.
 
 Entre os principais temas:
 
-- Automação de rotinas operacionais
-- Diagnóstico e otimização de desempenho
-- Monitoramento e observabilidade
-- Backup, recuperação e alta disponibilidade
-- Administração de ambientes Oracle e MySQL
-- Scripts em Python, Shell e SQL
-- Estudos de arquitetura e tecnologias Cloud
+- Arquitetura, Engenharia e Integração de Dados
+- Governança, Segurança e Qualidade de Dados
+- Pipelines de Dados, ETL/ELT e CDC
+- Automação de Processos com Python, Shell e SQL
+- Performance, Monitoramento e Observabilidade
+- Backup, Recuperação e Alta Disponibilidade
+- Administração e Arquitetura de Banco de Dados
+- Cloud Computing e Modernização Tecnológica
 
-Acredito que uma liderança eficiente precisa compreender tanto os desafios técnicos quanto os impactos das decisões para o negócio.
+**Acredito que uma liderança eficiente combina visão estratégica, conhecimento técnico e capacidade de transformar tecnologia em resultados para o negócio.**
 
 ---
 
