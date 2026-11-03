@@ -55,13 +55,19 @@ Repositórios com projetos, estudos e automações voltados a **Oracle, infraest
 📝 **Blog:** [francoisfiorino.com.br](https://francoisfiorino.com.br)
 
 ---
+# 🤝 Contato
 
-## 🤝 Contato
+**LinkedIn**  
+https://linkedin.com/in/francois-fiorino
 
-💼 [LinkedIn](https://linkedin.com/in/francois-fiorino)
+**IDB Consult**  
+https://idbconsult.com.br
 
-🌐 [IDB Consult](https://idbconsult.com.br)
+**Blog Técnico**  
+https://francoisfiorino.com.br
 
 ---
+
+**Tecnologia | Pessoas | Processos | Estratégia | Resultados**
 
 **Tecnologia | Pessoas | Processos | Estratégia | Resultados**
