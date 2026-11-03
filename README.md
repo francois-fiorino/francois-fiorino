@@ -1,20 +1,85 @@
 
+
 # Olá, seja bem-vindo ao meu GitHub! 👋
 
 ## François Otavio Fiorino
 
-### Gestor de TI | Infraestrutura | Cloud | Dados
+### Gestão de TI | Infraestrutura & Cloud | Especialista em Tecnologias Oracle
 
-**Liderança Técnica | Gestão de Operações de TI | Fundador da IDB Consult**
+**Liderança Técnica | Arquitetura de Dados | Operações de Missão Crítica**
 
-Profissional com **mais de 15 anos de experiência em Tecnologia da Informação**, com trajetória em infraestrutura, datacenter, banco de dados, cloud e gestão de operações de missão crítica.
+**Fundador da IDB Consult**
 
-Experiência na **liderança de equipes multidisciplinares, gestão de serviços de TI, governança operacional, projetos de modernização tecnológica e relacionamento com clientes e fornecedores**.
+Profissional com **mais de 15 anos de experiência em Tecnologia da Informação**, com atuação em gestão de infraestrutura, operações de TI, cloud computing, arquitetura de dados e tecnologias Oracle.
 
-Minha atuação combina **visão estratégica, gestão de pessoas e profundidade técnica**, conectando tecnologia às necessidades do negócio.
+Minha trajetória combina **liderança de equipes multidisciplinares, gestão de ambientes de missão crítica e especialização em soluções Oracle**, incluindo Database, Exadata, OCI, RAC, Data Guard, GoldenGate e tecnologias de segurança.
+
+Ao longo da carreira, liderei equipes técnicas, coordenei operações corporativas e participei de projetos de modernização tecnológica, sempre buscando conectar **pessoas, processos, tecnologia e resultados de negócio**.
 
 ---
 
+
+## 🛠️ Tecnologias e Especializações
+
+### 🔴 Ecossistema Oracle
+- Oracle Database (11g, 12c, 19c e 23ai)
+- Oracle Exadata (On-Premises e Exadata Cloud Service)
+- Oracle Cloud Infrastructure (OCI)
+- Oracle RAC, ASM e Grid Infrastructure
+- Oracle Data Guard e Active Data Guard
+- Oracle GoldenGate
+- Oracle RMAN e Zero Data Loss Recovery Appliance (ZDLRA)
+- Oracle Enterprise Manager (OEM)
+- Oracle Autonomous Database
+- Oracle Multitenant (CDB/PDB)
+
+### 🔐 Segurança e Governança de Dados
+- Oracle Audit Vault and Database Firewall (AVDF)
+- Oracle Database Vault
+- Oracle Transparent Data Encryption (TDE)
+- Oracle Key Vault
+- Oracle Data Masking & Redaction
+- Unified Auditing
+- LGPD e Proteção de Dados
+
+### ☁️ Cloud e Infraestrutura
+- Oracle Cloud Infrastructure (OCI)
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Linux / Unix
+- Alta Disponibilidade e Disaster Recovery
+- Migração e Modernização de Ambientes
+- Arquitetura de Infraestrutura Corporativa
+
+### 🗄️ Banco de Dados e Plataformas
+- Oracle Database
+- MySQL
+- PostgreSQL
+- Microsoft SQL Server
+- Arquitetura e Administração de Banco de Dados
+- Performance Tuning e Otimização
+
+### ⚙️ Automação e Observabilidade
+- Python
+- Shell Script
+- SQL e PL/SQL
+- Git e GitHub
+- Zabbix
+- Grafana
+- Nagios
+- Datadog
+- Automação de Rotinas Operacionais
+
+### 📊 Gestão, Métodos e Governança
+- Gestão de Serviços de TI (ITSM)
+- Práticas ITIL
+- Gestão de SLAs e KPIs
+- Gestão de Incidentes, Problemas e Mudanças
+- Gestão de Projetos
+- Scrum e Kanban
+- FinOps e Governança Cloud
+- Gestão de Riscos e Continuidade de Negócios
+- 
 ## 🎯 Gestão e Liderança
 
 - Gestão de Infraestrutura e Operações de TI
