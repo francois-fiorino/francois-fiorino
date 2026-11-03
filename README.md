@@ -7,7 +7,7 @@
 
 **Liderança Técnica | Arquitetura de Dados | Operações de Missão Crítica**
 
-**Fundador da [IDB Consult](https://idbconsult.com.br)**
+**Consultor da [IDB Consult](https://idbconsult.com.br)**
 
 Profissional com **mais de 15 anos de experiência em TI**, com atuação em gestão de equipes, infraestrutura, cloud, banco de dados e operações de missão crítica.
 
