@@ -47,15 +47,31 @@ Minha trajetória combina **liderança e gestão de tecnologia com especializaç
 - Experiência em ambientes corporativos críticos, infraestrutura, cloud e arquitetura de dados.
 
 ---
+## 🎓 Certificações e Desenvolvimento
 
-## 📂 Projetos e Conhecimento
+Profissional certificado Oracle, com especializações em:
 
-Repositórios com projetos, estudos e automações voltados a **Oracle, infraestrutura, cloud, Python, monitoramento e operações de TI**.
+- Oracle Database Administration e Performance
+- Oracle RAC, ASM e Data Guard
+- Oracle Exadata e Alta Disponibilidade
+- Oracle Cloud Infrastructure
+- Arquitetura e Migração para Cloud
+- Oracle GoldenGate e Integração de Dados
+- Segurança e Proteção de Dados
+- Oracle AI e Agentic AI
+- MySQL Database Administration
 
-📝 **Blog:** [francoisfiorino.com.br](https://francoisfiorino.com.br)
+Em constante desenvolvimento nas áreas de **Gestão de TI, Governança, Cloud, FinOps, Python e Engenharia de Dados**.
 
 ---
-# 🤝 Contato
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=francois-fiorino&show_icons=true)
+
+---
+
+## 🤝 Contato
 
 **LinkedIn**  
 https://linkedin.com/in/francois-fiorino
@@ -67,7 +83,5 @@ https://idbconsult.com.br
 https://francoisfiorino.com.br
 
 ---
-
-**Tecnologia | Pessoas | Processos | Estratégia | Resultados**
 
 **Tecnologia | Pessoas | Processos | Estratégia | Resultados**
