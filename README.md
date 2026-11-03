@@ -1,7 +1,7 @@
 
 # Olá, seja bem-vindo ao meu GitHub! 👋
 
-## François Fiorino
+## Francois Fiorino
 
 ### Gestão de TI | Infraestrutura & Cloud | Especialista Oracle
 
