@@ -17,11 +17,34 @@ Minha trajetória combina **liderança e gestão de tecnologia com especializaç
 
 ## 🎯 Gestão e Liderança
 
-- Gestão de Infraestrutura, Cloud e Operações de TI
-- Liderança de Equipes Multidisciplinares
-- Governança de TI, SLAs, KPIs e ITSM
-- Gestão de Incidentes, Mudanças e Fornecedores
-- Projetos de Modernização e Transformação Tecnológica
+- Gestão de Infraestrutura e Operações de TI
+- Liderança e Desenvolvimento de Equipes
+- Gestão de Dados e Banco de Dados
+- Governança de TI, Indicadores, SLAs e KPIs
+- Gestão de Incidentes, Problemas e Mudanças
+- Gestão de Fornecedores e Parceiros Tecnológicos
+- Planejamento e Priorização de Demandas
+- Gestão de Projetos e Modernização Tecnológica
+- Continuidade de Negócios e Recuperação de Desastres
+- Melhoria Contínua e Eficiência Operacional
+
+---
+
+## 📂 Projetos e Contribuições
+
+Este GitHub reúne projetos, estudos e ferramentas voltados à **automação, infraestrutura, banco de dados e operações de TI**.
+
+Entre os principais temas:
+
+- Automação de rotinas operacionais
+- Diagnóstico e otimização de desempenho
+- Monitoramento e observabilidade
+- Backup, recuperação e alta disponibilidade
+- Administração de ambientes Oracle e MySQL
+- Scripts em Python, Shell e SQL
+- Estudos de arquitetura e tecnologias Cloud
+
+Acredito que uma liderança eficiente precisa compreender tanto os desafios técnicos quanto os impactos das decisões para o negócio.
 
 ---
 
